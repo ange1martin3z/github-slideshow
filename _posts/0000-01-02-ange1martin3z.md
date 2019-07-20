@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our github teacher live!"
 ---
-Your text
+This is my tuti slide
 All your bases belong to me.≈
